@@ -1,4 +1,4 @@
-package com.clivial;
+package com.clivial.app.refactor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
